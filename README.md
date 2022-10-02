@@ -1,11 +1,15 @@
 **AI Based Discourse For Banking Industry**
 
 Team ID : PNT2022TMID01145
+
 Team Size : 4
 
 Team Leader   : Sanju K. Jacob
+
 Team member 1 : Viruthik Kumaresan S.
+
 Team member 2 : SAKTHIVEL P
+
 Team member 3 : Sarabesh KANNAA T.M.
 
 
