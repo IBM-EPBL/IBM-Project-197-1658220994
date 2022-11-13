@@ -21,6 +21,8 @@ The Bot should be able to answer loan queries.
 The Bot should be able to answer general banking queries.
 The Bot should be able to answer queries regarding net banking.
 
+Click here to Access our Project: https://sanjujacob.github.io/ChatBot
+
 **Services Used:**
 
 IBM Watson Assistant
