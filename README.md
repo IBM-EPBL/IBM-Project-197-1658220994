@@ -23,7 +23,7 @@ The Bot should be able to answer queries regarding net banking.
 
 Click here to Access our Project: https://sanjujacob.github.io/ChatBot
 
-Click here to Access our Demo video Link: https://youtu.be/C0CyZ2xI2h4
+Click here to Access our Demo Video Link: https://youtu.be/C0CyZ2xI2h4
 
 **Services Used:**
 
